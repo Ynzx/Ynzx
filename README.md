@@ -1,4 +1,4 @@
-![logo](https://raw.githubusercontent.com/Ynzx/Ynzx/main/Ynzx_banner.png)
+
 
 <h1 align="center">Hi 👋, I'm Lawliet</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
