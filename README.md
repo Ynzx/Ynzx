@@ -7,7 +7,6 @@
 
 ---
 - 📫 How to reach me **Lawoxd1337@gmail.com**
----
 
 <p align="left">
 </p>
